@@ -1,7 +1,7 @@
 # Class Have all the long instruction at one place
 class Instruction
   def initialize(first_name)
-    @first_name = first_name
+    @first_name = Rohit
   end
 
   def start
